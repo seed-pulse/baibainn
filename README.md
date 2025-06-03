@@ -1,22 +1,24 @@
 # baibainn
-# The Baibain Paradox: Can Chestnut Buns Really Fill the Universe?
+# The Baibain Paradox: Can Chestnut Manju Really Fill the Universe?
 
 ## Overview
 
 In the world of *Doraemon*, the secret gadget "Baibain" doubles any object every 5 seconds.  
-In the episode, Nobita uses it on a chestnut bun, leading to a warning: "If left unchecked, they’ll fill the universe."  
+In the episode, Nobita uses it on a **chestnut manju** (a traditional Japanese steamed sweet filled with chestnut paste), leading to a warning:  
+**"If left unchecked, they’ll fill the universe."**
+
 But does this scenario hold up under the laws of physics?
 
 This document introduces a thought experiment called the **Baibain Paradox**, exploring how **thermodynamics** and **kinetic limits** would actually prevent this infinite proliferation.  
-We argue that the chestnut buns would **burn out due to their own speed and collisions** before ever filling the cosmos.
+We argue that the chestnut manju would **burn out due to their own speed and collisions** before ever filling the cosmos.
 
 ---
 
 ## Assumptions
 
 1. Baibain causes **exponential growth**, doubling the object every 5 seconds.
-2. The duplicated buns have **mass** and **volume**, occupying physical space.
-3. As density increases, **collisions between buns** become inevitable.
+2. The duplicated manju have **mass** and **volume**, occupying physical space.
+3. As density increases, **collisions between manju** become inevitable.
 4. Collisions generate **heat** and cause physical changes.
 
 ---
@@ -25,25 +27,25 @@ We argue that the chestnut buns would **burn out due to their own speed and coll
 
 ### 1. Collision-Induced Heat and Self-Destruction
 
-- As buns multiply and move, **kinetic energy** accumulates.
+- As manju multiply and move, **kinetic energy** accumulates.
 - Collisions convert this energy into **heat**, potentially causing combustion or disintegration.
 - Even in vacuum, **thermal runaway** could trigger self-destruction.
 
 ### 2. Relativistic Speed Limits
 
-- The spread of buns across space involves **movement**.
+- The spread of manju across space involves **movement**.
 - But nothing, including information or matter, can exceed **the speed of light**.
-- If the universe expands faster than the buns can spread, they **cannot fill all space**.
+- If the universe expands faster than the manju can spread, they **cannot fill all space**.
 
 ### 3. Conservation Laws and Cosmic Constraints
 
 - The **law of energy conservation** applies universally.
 - Infinite duplication demands **infinite energy**, which violates physical reality.
-- Eventually, the buns would hit a **mass-energy limit** and collapse.
+- Eventually, the manju would hit a **mass-energy limit** and collapse.
 
 ---
 
-## Conclusion: Chestnut Buns Cannot Fill the Universe
+## Conclusion: Chestnut Manju Cannot Fill the Universe
 
 Despite Baibain’s magical premise, the physical universe imposes clear constraints:
 
@@ -52,7 +54,7 @@ Despite Baibain’s magical premise, the physical universe imposes clear constra
 - **Relativistic propagation barriers**
 - **Conservation of energy and mass**
 
-Thus, **chestnut buns would burn out before reaching universal saturation**.  
+Thus, **chestnut manju would burn out before reaching universal saturation**.  
 This is what we define as the **Baibain Paradox**.
 
 ---
